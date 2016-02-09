@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bocchiibononsymb00bocc_0116.png"; bbox 0 0 1908 2959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 112 1283 158">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 112 1283 158">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 112 1283 158; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 365 112 491 154; x_wconf 78' lang='lat' dir='ltr'><strong>xcrl</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 806 114 929 154; x_wconf 77' lang='lat' dir='ltr'><strong>LIB.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 978 115 1283 158; x_wconf 71' lang='lat' dir='ltr'><strong>SECVND.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 417 267 1556 353">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 417 267 1556 353">
+     <span class='ocr_line' id='line_1_2' title="bbox 417 267 1556 353; baseline 0.005 -32"><span class='ocrx_word' id='word_1_4' title='bbox 417 267 570 353; x_wconf 76' lang='lat' dir='ltr'><strong>NON</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 614 268 873 339; x_wconf 80' lang='lat' dir='ltr'>EXTRA,</span> <span class='ocrx_word' id='word_1_6' title='bbox 921 267 1020 322; x_wconf 83' lang='lat' dir='ltr'><strong>AT</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1069 269 1270 325; x_wconf 84' lang='lat' dir='ltr'>INTVS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1320 268 1556 327; x_wconf 81' lang='lat' dir='ltr'><strong>AVDIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 832 468 1169 524">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 832 468 1169 524">
+     <span class='ocr_line' id='line_1_3' title="bbox 832 468 1169 524; baseline 0.009 -17"><span class='ocrx_word' id='word_1_9' title='bbox 832 468 990 524; x_wconf 63' lang='lat' dir='ltr'><strong>SYMB.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1038 470 1169 510; x_wconf 83' lang='lat' dir='ltr'><strong>XLV.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 472 600 1771 2388">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 472 600 1771 2388">
+     <span class='ocr_line' id='line_1_4' title="bbox 472 600 1771 2388; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 472 600 1771 2388; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

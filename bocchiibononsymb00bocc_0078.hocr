@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bocchiibononsymb00bocc_0078.png"; bbox 0 0 1908 2959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 424 49 1332 118">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 424 49 1332 118">
+     <span class='ocr_line' id='line_1_1' title="bbox 424 49 1332 118; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 424 76 549 117; x_wconf 81' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_2' title='bbox 964 49 1090 114; x_wconf 65' lang='lat' dir='ltr'>Lm.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1136 50 1332 118; x_wconf 57' lang='grc' dir='ltr'>ὺιξιΜῖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 428 195 1719 445">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 428 195 1719 445">
+     <span class='ocr_line' id='line_1_2' title="bbox 428 195 1716 272; baseline -0.003 -13"><span class='ocrx_word' id='word_1_4' title='bbox 428 207 654 259; x_wconf 77' lang='lat' dir='ltr'>PABVLA</span> <span class='ocrx_word' id='word_1_5' title='bbox 703 216 888 258; x_wconf 69' lang='lat' dir='ltr'>LAETA</span> <span class='ocrx_word' id='word_1_6' title='bbox 936 219 1109 257; x_wconf 73' lang='lat' dir='ltr'>ANIMI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1164 217 1311 257; x_wconf 73' lang='lat' dir='ltr'><strong>HAEC</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1364 216 1435 256; x_wconf 80' lang='lat' dir='ltr'>NE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1487 195 1716 272; x_wconf 47' lang='lat' dir='ltr'>&amp;mm-3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 798 310 1312 349; baseline -0.004 -1"><span class='ocrx_word' id='word_1_10' title='bbox 798 310 1053 349; x_wconf 74' lang='lat' dir='ltr'>BEABERIS</span> <span class='ocrx_word' id='word_1_11' title='bbox 1102 310 1312 349; x_wconf 57' lang='lat' dir='ltr'>vano.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 431 391 1719 445; baseline -0.002 -1"><span class='ocrx_word' id='word_1_12' title='bbox 431 391 553 444; x_wconf 77' lang='lat' dir='ltr'>Hoc</span> <span class='ocrx_word' id='word_1_13' title='bbox 584 404 757 444; x_wconf 72' lang='lat' dir='ltr'>1LLvD</span> <span class='ocrx_word' id='word_1_14' title='bbox 786 391 1008 443; x_wconf 73' lang='lat' dir='ltr'>Boccffl</span> <span class='ocrx_word' id='word_1_15' title='bbox 1036 403 1236 442; x_wconf 73' lang='lat' dir='ltr'>NomLE</span> <span class='ocrx_word' id='word_1_16' title='bbox 1266 404 1591 445; x_wconf 63' lang='grc' dir='ltr'><strong>εγΜΓοεινΜ</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1622 401 1719 444; x_wconf 76' lang='lat' dir='ltr'>EST</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 364 542 1692 2333">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 364 542 1692 2333">
+     <span class='ocr_line' id='line_1_5' title="bbox 364 542 1692 2333; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 364 542 1692 2333; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

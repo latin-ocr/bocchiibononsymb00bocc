@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bocchiibononsymb00bocc_0370.png"; bbox 0 0 1908 2959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 432 90 1329 182">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 432 90 1329 182">
+     <span class='ocr_line' id='line_1_1' title="bbox 432 90 1329 182; baseline -0.032 2"><span class='ocrx_word' id='word_1_1' title='bbox 432 132 697 182; x_wconf 63' lang='lat' dir='ltr'><strong>‘cccxnvr</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 794 159 803 166; x_wconf 94' lang='lat'>.</span> <span class='ocrx_word' id='word_1_3' title='bbox 889 123 1018 166; x_wconf 72' lang='lat' dir='ltr'><strong>mn.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1066 90 1329 174; x_wconf 36' lang='lat' dir='ltr'><strong>oxvm&#39;r.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 442 251 1742 422">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 442 251 1742 422">
+     <span class='ocr_line' id='line_1_2' title="bbox 442 251 1742 338; baseline -0.035 1"><span class='ocrx_word' id='word_1_5' title='bbox 442 291 687 338; x_wconf 81' lang='lat' dir='ltr'>OMNIA</span> <span class='ocrx_word' id='word_1_6' title='bbox 749 278 929 323; x_wconf 71' lang='lat' dir='ltr'>MENS</span> <span class='ocrx_word' id='word_1_7' title='bbox 997 262 1513 319; x_wconf 76' lang='lat' dir='ltr'>SPECVLATVR</span> <span class='ocrx_word' id='word_1_8' title='bbox 1562 251 1742 301; x_wconf 77' lang='lat' dir='ltr'>AGxT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 656 354 1516 422; baseline -0.03 -1"><span class='ocrx_word' id='word_1_9' title='bbox 656 365 1100 422; x_wconf 68' lang='lat' dir='ltr'><strong>PRVDENTIA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1150 361 1235 403; x_wconf 87' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1296 354 1516 414; x_wconf 73' lang='lat' dir='ltr'><strong>ARTE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 395 1415 1412 1418">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 395 1415 1412 1418">
+     <span class='ocr_line' id='line_1_4' title="bbox 395 1415 1412 1418; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 395 1415 1412 1418; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 231 816 1571 2471">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 231 816 1571 2471">
+     <span class='ocr_line' id='line_1_5' title="bbox 231 816 1571 2471; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 231 816 1571 2471; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

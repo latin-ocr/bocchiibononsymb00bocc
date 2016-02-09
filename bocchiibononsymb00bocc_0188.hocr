@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bocchiibononsymb00bocc_0188.png"; bbox 0 0 1908 2959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 319 124 1240 189">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 319 124 1240 189">
+     <span class='ocr_line' id='line_1_1' title="bbox 319 124 1240 189; baseline -0.027 0"><span class='ocrx_word' id='word_1_1' title='bbox 319 145 526 189; x_wconf 80' lang='lat' dir='ltr'>CLxuu</span> <span class='ocrx_word' id='word_1_2' title='bbox 856 134 983 176; x_wconf 79' lang='lat' dir='ltr'><strong>LIB.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1032 124 1240 167; x_wconf 69' lang='lat' dir='ltr'><strong>TERT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 425 283 1535 354">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 425 283 1535 354">
+     <span class='ocr_line' id='line_1_2' title="bbox 425 283 1535 354; baseline -0.026 1"><span class='ocrx_word' id='word_1_4' title='bbox 425 300 685 354; x_wconf 70' lang='lat' dir='ltr'><strong>vaom</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 736 292 956 346; x_wconf 72' lang='lat' dir='ltr'>PEPVLO</span> <span class='ocrx_word' id='word_1_6' title='bbox 1002 283 1253 335; x_wconf 72' lang='lat' dir='ltr'>Pfflmrm</span> <span class='ocrx_word' id='word_1_7' title='bbox 1301 286 1535 330; x_wconf 70' lang='lat' dir='ltr'><strong>OCELLO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 775 477 1262 528">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 775 477 1262 528">
+     <span class='ocr_line' id='line_1_3' title="bbox 775 477 1262 528; baseline -0.025 -1"><span class='ocrx_word' id='word_1_8' title='bbox 775 489 799 528; x_wconf 91' lang='lat' dir='ltr'><strong>S</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 817 486 849 523; x_wconf 87' lang='lat' dir='ltr'>Y</span> <span class='ocrx_word' id='word_1_10' title='bbox 867 484 974 524; x_wconf 85' lang='grc' dir='ltr'><strong>ΜΒ.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1019 477 1262 520; x_wconf 81' lang='lat' dir='ltr'><strong>LXXVIII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 395 574 1805 2433">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 395 574 1805 2433">
+     <span class='ocr_line' id='line_1_4' title="bbox 395 574 1805 2433; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 395 574 1805 2433; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
